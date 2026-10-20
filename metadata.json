@@ -1,0 +1,6 @@
+{
+  "name": "AgriShield AI - Crop Disease Diagnosis & Multilingual Advisory",
+  "description": "Agricultural intelligence core for plant disease identification, surface infection severity %, and eco-friendly advisory in English, Telugu, Tamil, and Hindi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
